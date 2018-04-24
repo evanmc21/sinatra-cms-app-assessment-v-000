@@ -1,0 +1,6 @@
+Create a user account through a signup form using a username, email, and password
+When sign up is complete, the user can then login to gain access to Pop Diva Fantasy League.
+User can create new teams and view teams made by other users.
+Each team requires a team name, back-up singer, back-up dancer, and lead-vocalist.
+User can edit or delete your team any time as long as the user is logged in.
+User can logout anytime using the logout button.
